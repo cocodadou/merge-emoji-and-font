@@ -76,3 +76,4 @@ jobs:
         with:
           name: all-fonts
           path: out/
+          
